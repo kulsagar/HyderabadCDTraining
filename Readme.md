@@ -22,3 +22,6 @@ If I do it without making any mistake then I can take off for the rest of the da
 
 Adding a new line on 21st 
 Hello All
+
+for more git commands, refer to following document
+https://education.github.com/git-cheat-sheet-education.pdf
